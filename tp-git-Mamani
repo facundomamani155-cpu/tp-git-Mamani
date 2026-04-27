@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabajo Práctico Git - Mamani</title>
+</head>
+<body>
+    <h1>Mi primer proyecto con Git</h1>
+    <p>Este es un repositorio de prueba para la materia Taller de Programación.</p>
+    <p>Aprendiendo a gestionar versiones de código de forma profesional.</p>
+</body>
+</html>
